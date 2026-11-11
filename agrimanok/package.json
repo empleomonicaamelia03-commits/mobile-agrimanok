@@ -1,0 +1,27 @@
+{
+  "name": "agrimanok-mobile",
+  "version": "1.0.0",
+  "main": "expo-router/entry",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios"
+  },
+  "dependencies": {
+    "@expo-google-fonts/inter": "*",
+    "@expo-google-fonts/plus-jakarta-sans": "*",
+    "@expo/metro-runtime": "~58.0.17",
+    "@expo/vector-icons": "*",
+    "expo": "~58.0.0",
+    "expo-constants": "*",
+    "expo-linking": "*",
+    "expo-router": "*",
+    "expo-status-bar": "*",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "react-native": "*",
+    "react-native-safe-area-context": "*",
+    "react-native-screens": "*",
+    "react-native-web": "^0.21.4"
+  }
+}

@@ -1,0 +1,1 @@
+{ "expo": { "name": "AgriManok Mindanao", "slug": "agrimanok-mindanao", "scheme": "agrimanok", "version": "1.0.0", "orientation": "portrait", "userInterfaceStyle": "light", "plugins": ["expo-router"] } }
